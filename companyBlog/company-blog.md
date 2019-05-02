@@ -7,6 +7,8 @@ shortDescription: |-
   ```
   Short description. Company blog.
   ```
-description: Długi opis.
+description: |-
+  1. Długi opis.
+  2. # Długi opis
 ---
 
