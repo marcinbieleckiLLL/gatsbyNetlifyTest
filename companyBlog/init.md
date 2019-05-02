@@ -1,5 +1,5 @@
 ---
-title: do not delete!!!
+title: init file. do not delete!!!
 date: do not delete!!!
 type: do not delete!!!
 image: do not delete!!!
